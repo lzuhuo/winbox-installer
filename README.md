@@ -2,7 +2,7 @@
 A simple helper script to install Mikrotik's Winbox in GNU/Linux
 
 ## Feature:
-1. Supported GNU/Linux distributtions: Debian, Ubuntu, Elementary OS, Zorin OS, Linux Mint, Kali Linux, Fedora, RHEL, CentOS, IGOS Nusantara, Archlinux
+1. Supported GNU/Linux distributtions: Debian, Ubuntu, popOS, Elementary OS, Zorin OS, Linux Mint, Kali Linux, Fedora, RHEL, CentOS, IGOS Nusantara, Archlinux
 2. Installs wine
 3. Upgrades wine (from the distribution's repo) to a newer version (only for Fedora, RHEL, CentOS, IGN)
 4. Menu entry in the application launcher
